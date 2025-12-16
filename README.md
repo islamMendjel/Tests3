@@ -32,7 +32,7 @@ You'll need a few modules to get everything running smoothly. Install them all w
 
 ## Room for Improvement
 
-So, you've got the basics down. What's next?
+So, you've got the basics down. What's next ?
 
 - **Custom Patterns:** Experiment with different patterns on your contribution graph. Maybe spell out your name or create some cool designs.
 - **Density Control:** Play around with the number of commits per day to adjust the shades of green.
