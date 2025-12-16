@@ -1,1 +1,1 @@
-This is a test file for co-authoring.
+This file is added to test co-author PR for earning the Pair Extraordinaire badge.
